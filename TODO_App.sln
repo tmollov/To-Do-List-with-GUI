@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.705
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "TODO_App", "TODO_App.pyproj", "{62151CE8-5E68-45E0-BF1B-B88A6A53E15D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{62151CE8-5E68-45E0-BF1B-B88A6A53E15D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62151CE8-5E68-45E0-BF1B-B88A6A53E15D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9EE87EE2-EEF1-44BE-916F-0A0125A9CBFC}
+	EndGlobalSection
+EndGlobal
