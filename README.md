@@ -16,4 +16,4 @@ Just type your task in input field and press ENTER.
 It will add your task to the list(both on app and to the database file)
 
 You can clear all tasks by pressing "Clear Tasks"
-NOTE: It will erease bot list on app and database file
+NOTE: It will erease both list on app and database file
